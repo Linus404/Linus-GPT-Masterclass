@@ -19,32 +19,32 @@ ChatGPT ist ein **Sprachmodell** und kann deswegen bei komplexeren Mathe und Log
 
 ## Verzeichnis:
 ### Essentials (Grundlagen)
-- [[Aufbau]] - Die Grundlagen eines Prompts
-- [[Rollenwechsel]] - ChatGPT als Gesprächspartner
-- [[Struktur|Prompt Modifikationen]] - Alle wichtigen und fortgeschrittenen Optionen für ein Prompt
-- [[Checkliste]] - Liste, welche bei jedem Prompt verwendet werden sollte
+- Aufbau - Die Grundlagen eines Prompts
+- Rollenwechsel - ChatGPT als Gesprächspartner
+- Struktur|Prompt Modifikationen - Alle wichtigen und fortgeschrittenen Optionen für ein Prompt
+- Checkliste - Liste, welche bei jedem Prompt verwendet werden sollte
 
 ### Schule
-- [[Lernhilfe]] - Assistent zum Lernen und Vortragvorbereitung
-- [[Bücher und Texte zusammenfassen|Bücher und Texte]] - Texte zusammenfassen und Inhalte raus filtern
-- [[Erklärbär]] - Dinge erklären lassen und Fehler finden
-- [[Lernplan erstellen|Lernplan]] - Individueller Lernplan
+- Lernhilfe - Assistent zum Lernen und Vortragvorbereitung
+- Bücher und Texte zusammenfassen|Bücher und Texte - Texte zusammenfassen und Inhalte raus filtern
+- Erklärbär - Dinge erklären lassen und Fehler finden
+- Lernplan erstellen|Lernplan - Individueller Lernplan
 
 ### Job & Unternehmen
-- [[Job & Karriere|Interview]] - Vorbereitung auf Bewerbungsgespräch
-- [[Produktidee finden]]
-- [[Markennamen finden]]
-- [[Marktforschung]]
-	- [[Zielgruppe]]
+- Job & Karriere|Interview - Vorbereitung auf Bewerbungsgespräch
+- Produktidee finden
+- Markennamen finden
+- Marktforschung
+	- Zielgruppe
 
 ### Verlässlichkeit verbessern
-- [[Kalibrierung]] - Anpassung des Modells
-- [[Mathe]] - ChatGPT auf Mathe abstimmen
+- Kalibrierung - Anpassung des Modells
+- Mathe - ChatGPT auf Mathe abstimmen
 
 ### Extras
-- [[Nachteile]] - Limitationen von ChatGPT
-- [[Parameter]] - Direkte Beeinflussung der KI (für Fortgeschrittene)
-- [[Browser Erweiterungen]] - Nützliche Extrafunktionen durch Drittanbieter
+- Nachteile - Limitationen von ChatGPT
+- Parameter - Direkte Beeinflussung der KI (für Fortgeschrittene)
+- Browser Erweiterungen - Nützliche Extrafunktionen durch Drittanbieter
 
 
 *Quellen:*
