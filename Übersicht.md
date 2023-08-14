@@ -42,14 +42,14 @@ ChatGPT ist ein **Sprachmodell** und kann deswegen bei komplexeren Mathe und Log
 - Mathe - ChatGPT auf Mathe abstimmen
 
 ### Extras
-- Nachteile - Limitationen von ChatGPT
-- Parameter - Direkte Beeinflussung der KI (für Fortgeschrittene)
+- Nachteile - Limitationen von ChatGPT  
+- Parameter - Direkte Beeinflussung der KI (für Fortgeschrittene)  
 - Browser Erweiterungen - Nützliche Extrafunktionen durch Drittanbieter
 
 
 *Quellen:*
-https://learnprompting.org/
-https://roadmap.sh/
-https://www.udemy.com/course/chatgpt-master/
-https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/
-ChatGPT
+https://learnprompting.org/  
+https://roadmap.sh/  
+https://www.udemy.com/course/chatgpt-master/  
+https://www.udemy.com/course/chatgpt-masterclass-a-complete-chatgpt-guide-for-beginners/  
+ChatGPT  
