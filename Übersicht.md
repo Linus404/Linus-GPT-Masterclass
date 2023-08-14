@@ -47,7 +47,7 @@ ChatGPT ist ein **Sprachmodell** und kann deswegen bei komplexeren Mathe und Log
 - Browser Erweiterungen - Nützliche Extrafunktionen durch Drittanbieter
 
 
-*Quellen:*
+*Quellen:*  
 https://learnprompting.org/  
 https://roadmap.sh/  
 https://www.udemy.com/course/chatgpt-master/  
